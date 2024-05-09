@@ -1,18 +1,18 @@
 ID,Name,email,phone,Address,city,state,zip,RecentOrder
-A01,JIM A SEMP,jsemp@mail.com,123-654-2344,123 Main Street Suite 23,Pittsburgh,PA,15217,5/1/2018
-A03,LAURA VAIL,laura.vail@hotmail.com,756-345-6789,23 Oak Lane ,Morgantown,WV,26501,6/1/2016
-A05,AL'S BAKERY,al@alsbakery.com,213-543-2342,846 Fifth Ave ,Pittsburgh,PA,15219,8/12/2011
-A07,JANET R WENDELL,jwen@yahoo.com,434-786-3453,23212 Fern Circle Apt 100,Washington,DC,20001,11/24/2014
-A09,ALICIA ALBERT,aalbert@gmail.com,234-678-9234,432 Forbes Ave ,Pittsburgh,PA,15229,6/3/2014
-A11,HENRY KOBB,hank@kobbfam.net,234-098-7464,10 Dairy Way 2nd Floor,Pittsburgh,PA,15229,3/5/2013
-A13,CORNER MARKET,manager@cornermarket.com,222-837-6455,1500 Bruster Way ,Ross,PA,15237,6/2/2018
-A15,PAUL E TOLBY,pt23@school.edu,995-234-5656,230 Route 12 ,Ross,PA,15237,7/13/2018
-A17,OLIVE PLESS,opless@pctech.com,234-765-2233,15 Horse Alley ,Oakland,PA,15213,9/16/2017
-A19,REMMY L WALKER,walk.r@aol.com,969-234-8367,100 Silver Hwy ,Oakland,PA,15213,8/1/2017
-A21,71CAFE,71Csqhill@pgh.org,412-098-8984,3322 Forbes Ave ,Pittsburgh,PA,15434,11/11/2018
-C1       ,JILL FRANKS,jf773@hotmail.com,,111 Lake Dr,Pittsburgh,PA,15212,3/1/2020
-C2         ,SAL YATES,,724-234-6542,57 College Way,Morgantown,WV,26501,3/1/2020
-C3       ,WILL RATLIFF,ratty@mail.com,,544 Fifth Ave,Pittsburgh,PA,15219,3/1/2020
-C4       ,FRAN VICKS,,904-123-8337,10332 West Street,McCandless,PA,15234,3/1/2020
-C5            ,BILLY MURRAY,bmbm@pitt.edu,,2333 N Bellefield,Pittsburgh,PA,15213,3/1/2020
-C7     ,KLINE'S,klines2@klines.com,,500 West South Street,Pittsburgh,PA,15219,3/1/2020
+A0,JIM A SEMP,jsemp@mail.com,123-654-2344,123 Main Street Suite 23,Pittsburgh,PA,15217,5/1/2018
+A1,LAURA VAIL,laura.vail@hotmail.com,756-345-6789,23 Oak Lane ,Morgantown,WV,26501,6/1/2016
+A2,AL'S BAKERY,al@alsbakery.com,213-543-2342,846 Fifth Ave ,Pittsburgh,PA,15219,8/12/2011
+A3,JANET R WENDELL,jwen@yahoo.com,434-786-3453,23212 Fern Circle Apt 100,Washington,DC,20001,11/24/2014
+A4,ALICIA ALBERT,aalbert@gmail.com,234-678-9234,432 Forbes Ave ,Pittsburgh,PA,15229,6/3/2014
+A5,HENRY KOBB,hank@kobbfam.net,234-098-7464,10 Dairy Way 2nd Floor,Pittsburgh,PA,15229,3/5/2013
+A6,CORNER MARKET,manager@cornermarket.com,222-837-6455,1500 Bruster Way ,Ross,PA,15237,6/2/2018
+A7,PAUL E TOLBY,pt23@school.edu,995-234-5656,230 Route 12 ,Ross,PA,15237,7/13/2018
+A8,OLIVE PLESS,opless@pctech.com,234-765-2233,15 Horse Alley ,Oakland,PA,15213,9/16/2017
+A9,REMMY L WALKER,walk.r@aol.com,969-234-8367,100 Silver Hwy ,Oakland,PA,15213,8/1/2017
+A10,71CAFE,71Csqhill@pgh.org,412-098-8984,3322 Forbes Ave ,Pittsburgh,PA,15434,11/11/2018
+A11,JILL FRANKS,jf773@hotmail.com,,111 Lake Dr,Pittsburgh,PA,15212,3/1/2020
+A12,SAL YATES,,724-234-6542,57 College Way,Morgantown,WV,26501,3/1/2020
+A13,WILL RATLIFF,ratty@mail.com,,544 Fifth Ave,Pittsburgh,PA,15219,3/1/2020
+A14,FRAN VICKS,,904-123-8337,10332 West Street,McCandless,PA,15234,3/1/2020
+A15,BILLY MURRAY,bmbm@pitt.edu,,2333 N Bellefield,Pittsburgh,PA,15213,3/1/2020
+A16,KLINE'S,klines2@klines.com,,500 West South Street,Pittsburgh,PA,15219,3/1/2020
